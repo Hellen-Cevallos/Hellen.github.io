@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/7d/4c/60/7d4c60420d001ab22f65ec64b0a46403.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200 px;
+
+}
+img.com{
+    
+    background-image: url(IMAGENES/HELLEN.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 900px;
+}
+
+img.com{
+    
+    background-image: url(IMAGENES/fb.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 400px;
+}
+
+img.com{
+    
+    background-image: url(IMAGENES/ig.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 400px;
+}
+
+img.com{
+    
+    background-image: url(IMAGENES/music.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 564px;
+    width: 564px;
+}
+img.com{
+    
+    background-image: url(IMAGENES/MSS.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 400px;
+}
+
+
+img.com{
+    
+    background-image: url(IMAGENES/hello.jpeg);
+    border-radius: 5px 30px 45px 60px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 800px;
+}
